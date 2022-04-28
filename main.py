@@ -11,7 +11,7 @@ def main():
 
 
 def display_mainmenu():
-    print("\nWe learn new language now aka we get tortured by a snake aka c++ bad")
+    print("\nWe learn new language now aka we get tortured by a snake aka c++ baddie")
     print ("Hi enter some numbers pls [use commas :P ]\n")
 
 def user_input():
